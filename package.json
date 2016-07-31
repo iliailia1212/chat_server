@@ -1,0 +1,23 @@
+{
+  "name": "chat_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iliailia1212/chat_server"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "pg-promise": "^5.2.6",
+    "sockjs": "^0.3.17",
+    "websocket-multiplex": "^0.1.0",
+    "websocket-multiplex-client": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilya",
+  "license": "ISC"
+}
