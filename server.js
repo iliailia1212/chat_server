@@ -58,7 +58,7 @@ module.exports = {
 
 var server = http.createServer();
 service.installHandlers(server, {prefix:'/chat'});
-server.listen(377, '192.168.1.116');
+server.listen(377);
 
 console.log('server');
 
