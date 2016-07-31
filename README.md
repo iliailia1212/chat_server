@@ -10,4 +10,4 @@
 
 4)Выпонилть install.sql в БД и настроить config.js
 
-5)Запустить сервер: nodejs/node index.js
+5)Запустить сервер: nodejs index.js или node index.js
